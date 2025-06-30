@@ -1,7 +1,5 @@
 # Hi there, I'm Raahul Krishna Durairaju 👋
 
-![Waving Hand](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
-
 ---
 
 <!-- GitHub stats and Top Languages side by side -->
