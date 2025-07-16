@@ -95,6 +95,9 @@ My mission: Build AI that’s robust, scalable, and socially impactful.
 
 ### 💼 Selected Projects
 
+- **[Devops-orchestra](https://github.com/Devops-orchestra/DevOps-Orchestra)**  
+  AI-powered DevOps automation framework built on a collaborative multi-agent architecture, where agents handle the entire SDLC—from code validation to cloud provisioning, testing, deployment, and recovery—triggered by GitHub and orchestrated via Kafka.
+
 - **[Real-Time Fraud Detection Pipeline](https://github.com/RAAHUL-tech/Real-Time-Fraud-Detection-Pipeline)**  
   Production-ready pipeline with PyTorch Lightning, ONNX, AWS Lambda, MLOps tools (DVC, MLflow, W&B, Evidently AI), and automated CI/CD.
 
