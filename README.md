@@ -31,16 +31,19 @@
 ---
 
 ### 🎓 Masters in Computer Science | Cal State Fullerton  
-### 🤖 Machine Learning | Computer Vision | MLOps & DevOps Enthusiast  
+### 🤖 ML Engineer | CV, MLOps, Deep Learning | Real-Time Systems | Scalable AI Pipelines | Applied ML + Research
 ### 🌍 Based in Los Angeles, CA, USA  
 
 ---
 
 ### 🚀 About Me
-I’m a passionate AI & ML engineer-in-training, specializing in building scalable, production-ready AI systems.  
-Currently pursuing my Master’s degree in Computer Science, I focus on machine learning, computer vision, and MLOps/DevOps.  
+I’m a Master’s student in Computer Science at Cal State Fullerton, specializing in building production-ready AI and machine learning systems that solve real-world problems at scale. My work bridges deep learning, MLOps, and scalable cloud infrastructure to deliver measurable impact across healthcare, finance, and media.
 
-I enjoy solving real-world problems in healthcare, security, and infrastructure while mentoring others and leading AI workshops.  
+At VSQUARE, I enhanced eye treatment diagnostics by 15% using a computer vision pipeline that integrated emotion recognition with 92% accuracy. I also developed DevOps Orchestra, an AI-powered automation framework that reduces deployment time and human error by automating 95% of the software delivery pipeline using Kafka and intelligent agents.
+
+Other notable projects include a real-time credit card fraud detection system on AWS Lambda with sub-3-second latency—built using PyTorch Lightning, DVC, Hydra, MLflow, and Weights & Biases—and a fact-checking news aggregator that processes over 50,000 articles daily to combat misinformation. My research in neural style transfer introduced transformer-based enhancements that improved image quality by 20%.
+
+I primarily work with Python, PyTorch, TensorFlow, AWS, Kafka, Docker, Terraform, and MLOps tools to design robust, end-to-end AI pipelines. I’m passionate about translating machine learning research into real-world impact and am currently seeking full-time opportunities as a Machine Learning Engineer to continue innovating at scale.  
 My mission: Build AI that’s robust, scalable, and socially impactful.
 
 ---
