@@ -31,20 +31,21 @@
 ---
 
 ### 🎓 Masters in Computer Science | Cal State Fullerton  
-### 🤖 ML Engineer | CV, MLOps, Deep Learning | Real-Time Systems | Scalable AI Pipelines | Applied ML + Research
+### 🤖 ML Engineer | AWS Certified AI & Cloud Practitioner | CV, MLOps, Deep Learning | Python, PyTorch, TensorFlow, AWS, Kafka | Real-Time Systems | Scalable AI Pipelines
 ### 🌍 Based in Los Angeles, CA, USA  
 
 ---
 
 ### 🚀 About Me
-I’m a Master’s student in Computer Science at Cal State Fullerton, specializing in building production-ready AI and machine learning systems that solve real-world problems at scale. My work bridges deep learning, MLOps, and scalable cloud infrastructure to deliver measurable impact across healthcare, finance, and media.
+I’m a Master’s student in Computer Science at Cal State Fullerton, focused on building AI and machine learning solutions that solve real-world problems. My experience spans developing scalable MLOps systems, computer vision research, and automated AI pipelines.
 
-At VSQUARE, I enhanced eye treatment diagnostics by 15% using a computer vision pipeline that integrated emotion recognition with 92% accuracy. I also developed DevOps Orchestra, an AI-powered automation framework that reduces deployment time and human error by automating 95% of the software delivery pipeline using Kafka and intelligent agents.
+At VSQUARE, I improved eye treatment diagnostics by 15% through computer vision models that integrated emotion recognition with 92% accuracy. I’ve built complex systems like DevOps Orchestra, which automates 95% of software delivery workflows using AI agents and Kafka, reducing deployment times and human errors.
 
-Other notable projects include a real-time credit card fraud detection system on AWS Lambda with sub-3-second latency—built using PyTorch Lightning, DVC, Hydra, MLflow, and Weights & Biases—and a fact-checking news aggregator that processes over 50,000 articles daily to combat misinformation. My research in neural style transfer introduced transformer-based enhancements that improved image quality by 20%.
+Other projects include a real-time credit card fraud detection pipeline on AWS Lambda with sub-3-second latency, leveraging MLOps tools like DVC, Hydra, Weights & Biases, Evidently AI, and MLflow to ensure scalable, reliable, and monitored model deployment. I also developed a fact-checking news aggregator that processes 50,000+ articles daily with improved accuracy. My research in neural style transfer advanced image quality by 20% through novel transformer-based techniques.
 
-I primarily work with Python, PyTorch, TensorFlow, AWS, Kafka, Docker, Terraform, and MLOps tools to design robust, end-to-end AI pipelines. I’m passionate about translating machine learning research into real-world impact and am currently seeking full-time opportunities as a Machine Learning Engineer to continue innovating at scale.  
-My mission: Build AI that’s robust, scalable, and socially impactful.
+I hold AWS Certified AI Practitioner and AWS Certified Cloud Practitioner certifications, which complement my technical skills by validating my expertise in designing and deploying AI solutions on the AWS cloud. These certifications have strengthened my ability to build scalable, secure, and cost-effective cloud-native AI systems that integrate seamlessly with modern infrastructure.
+
+I work primarily with Python, PyTorch, TensorFlow, AWS, Kafka, Docker, Terraform, and MLOps frameworks to combine deep learning with robust infrastructure and deliver measurable impact.
 
 ---
 
