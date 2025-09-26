@@ -298,7 +298,6 @@ I'm passionate about building AI and machine learning solutions that solve real-
 ```python
 current_goals = {
     "🎓": "Completing Masters in CS at Cal State Fullerton",
-    "🔬": "Advancing AI automation for heavy equipment management",
     "🚀": "Building scalable MLOps solutions for production AI",
     "📚": "Mentoring peers and leading AI workshops",
     "🌟": "Contributing to open-source AI/ML projects"
