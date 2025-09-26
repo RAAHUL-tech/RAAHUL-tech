@@ -329,7 +329,7 @@ Dockerfile    45 mins        ░░░░░░░░░░░░░░░░░
   
   [![Email](https://img.shields.io/badge/📧_Email_Me-rahulkrish28@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkrish28@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raahulkrishna/)
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Projects-6366F1?style=for-the-badge&logoColor=white)](https://raahul-tech.github.io/Raahul_Portfolio_Website/)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Projects-6366F1?style=for-the-badge&logoColor=white)](https://www.raahulkrishna.com/)
   
 </div>
 
