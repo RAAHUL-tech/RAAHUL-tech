@@ -287,7 +287,13 @@ I'm passionate about building AI and machine learning solutions that solve real-
 
 ## 📚 Research & Publications
 
-### 🧬 [A New Activation Function For Neural Network Diabetes Prediction](https://example.com)
+### 🧬 [PyramidStyler: Transformer-Based Neural Style Transfer with Pyramidal Positional Encoding and Reinforcement Learning](https://arxiv.org/abs/2510.01715)
+*Published October 2025*
+
+**Abstract:** The paper presents PyramidStyler, a fast neural style transfer framework that significantly reduces content and style loss while maintaining real-time inference speed.
+
+
+### 🧬 [A New Activation Function For Neural Network Diabetes Prediction](https://www.ijcrt.org/viewfull.php?&p_id=IJCRT2309456)
 *Published September 2023*
 
 **Abstract:** Introduced a novel activation function to enhance neural network accuracy for diabetes prediction, contributing to improved healthcare AI solutions.
