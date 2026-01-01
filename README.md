@@ -19,12 +19,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **Masters in Computer Science** @ Cal State Fullerton (GPA: 3.95)  
-🤖 **ML Engineer** | AWS Certified AI & Cloud Practitioner  
-🔬 **Research Focus:** Computer Vision, MLOps, Deep Learning  
+🎓 **Masters in Computer Science** @ Cal State Fullerton (GPA: 3.96)  
+🤖 **ML Engineer** | AWS & NVIDIA Certified AI Professional  
+🔬 **Research Focus:** Computer Vision, MLOps, Deep Learning, Generative AI  
 🌍 **Based in:** Los Angeles, CA, USA  
 
-I'm passionate about building AI and machine learning solutions that solve real-world problems. My expertise spans developing **scalable MLOps systems**, **computer vision research**, and **automated AI pipelines** that deliver measurable impact.
+I'm passionate about building AI and machine learning solutions that solve real-world problems. My expertise spans developing **scalable MLOps systems**, **computer vision research**, **generative AI applications**, and **automated AI pipelines** that deliver measurable impact.
 
 ### 🏆 Key Achievements
 - 🔍 **Improved eye treatment diagnostics by 15%** through advanced computer vision models
@@ -40,21 +40,11 @@ I'm passionate about building AI and machine learning solutions that solve real-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RAAHUL-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAAHUL-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<a href="https://github.com/RAAHUL-tech">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAAHUL-tech&theme=radical" alt="GitHub Contribution Graph"/>
+</a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAAHUL-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAAHUL-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" />
@@ -62,9 +52,83 @@ I'm passionate about building AI and machine learning solutions that solve real-
 
 ---
 
+## 🎖️ Professional Certifications
+
+<div align="center">
+
+### 🚀 Latest Certifications (2025)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/3a5dc5e1-d42a-4cc6-a99b-a36386ac61df/public_url">
+      <img src="https://img.shields.io/badge/🎮_NVIDIA_Certified-Generative_AI_LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      </a>
+        <br><br>
+      <strong>NVIDIA-Certified Associate</strong><br>
+      <strong>Generative AI LLMs</strong>
+      <br><br>
+      📅 <em>Issued: December 2025</em><br>
+      🏢 <em>Nvidia</em>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/b6c6160f-ba87-4d37-bec3-2a3bbb515a42/public_url">
+      <img src="https://img.shields.io/badge/🎮_NVIDIA_Certified-Generative_AI_Multimodal-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      </a>
+        <br><br>
+      <strong>NVIDIA-Certified Associate</strong><br>
+      <strong>Generative AI Multimodal</strong>
+      <br><br>
+      📅 <em>Issued: December 2025</em><br>
+      🏢 <em>Nvidia</em>
+    </td>
+  </tr>
+</table>
+
+### ☁️ Cloud & AI Certifications
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/076bc3ac-5009-4518-81a1-1068e67b100f/public_url">
+        <img src="https://img.shields.io/badge/🤖_AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>AWS Certified AI Practitioner</strong>
+      <br><br>
+      📅 <em>Issued: August 2025</em><br>
+      🏢 <em>Amazon Web Services</em>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/bdcab53f-5aa5-4ea4-bf91-c952b86a2594/public_url">
+        <img src="https://img.shields.io/badge/☁️_AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>AWS Certified Cloud Practitioner</strong>
+      <br><br>
+      📅 <em>Issued: July 2025</em><br>
+      🏢 <em>Amazon Web Services</em>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JG2BYG5WCGMU">
+        <img src="https://img.shields.io/badge/🧠_Stanford-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+      </a>
+      <br><br>
+      <strong>Machine Learning Specialization</strong>
+      <br><br>
+      📅 <em>Issued: June 2023</em><br>
+      🏢 <em>Stanford & DeepLearning.AI</em>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Technology Arsenal
 
-<details>
+<details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
 <div align="center">
@@ -79,7 +143,7 @@ I'm passionate about building AI and machine learning solutions that solve real-
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>🧠 AI/ML Frameworks & Libraries</b></summary>
 <br>
 <div align="center">
@@ -137,46 +201,6 @@ I'm passionate about building AI and machine learning solutions that solve real-
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 </details>
-
----
-
-## 🎖️ Certifications
-
-<div align="center">
-  
-  [![AWS AI Practitioner](https://img.shields.io/badge/🤖_AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/076bc3ac-5009-4518-81a1-1068e67b100f/public_url)
-  
-  [![AWS Cloud Practitioner](https://img.shields.io/badge/☁️_AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/bdcab53f-5aa5-4ea4-bf91-c952b86a2594/public_url)
-  
-  [![ML Specialization](https://img.shields.io/badge/🧠_Stanford-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JG2BYG5WCGMU)
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #FF9900, #232F3E); padding: 20px; border-radius: 10px; color: white;">
-          <h3>🤖 AWS AI Practitioner</h3>
-          <p><strong>Issued:</strong> August 2025</p>
-          <p><em>Amazon Web Services</em></p>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #FF9900, #232F3E); padding: 20px; border-radius: 10px; color: white;">
-          <h3>☁️ AWS Cloud Practitioner</h3>
-          <p><strong>Issued:</strong> July 2025</p>
-          <p><em>Amazon Web Services</em></p>
-        </div>
-      </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #0056D2, #4285F4); padding: 20px; border-radius: 10px; color: white;">
-          <h3>🧠 ML Specialization</h3>
-          <p><strong>Issued:</strong> June 2023</p>
-          <p><em>Stanford & DeepLearning.AI</em></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
 ---
 
@@ -290,13 +314,12 @@ I'm passionate about building AI and machine learning solutions that solve real-
 ### 🧬 [PyramidStyler: Transformer-Based Neural Style Transfer with Pyramidal Positional Encoding and Reinforcement Learning](https://arxiv.org/abs/2510.01715)
 *Published October 2025*
 
-**Abstract:** The paper presents PyramidStyler, a fast neural style transfer framework that significantly reduces content and style loss while maintaining real-time inference speed.
-
+The paper presents PyramidStyler, a fast neural style transfer framework that significantly reduces content and style loss while maintaining real-time inference speed.
 
 ### 🧬 [A New Activation Function For Neural Network Diabetes Prediction](https://www.ijcrt.org/viewfull.php?&p_id=IJCRT2309456)
 *Published September 2023*
 
-**Abstract:** Introduced a novel activation function to enhance neural network accuracy for diabetes prediction, contributing to improved healthcare AI solutions.
+Introduced a novel activation function to enhance neural network accuracy for diabetes prediction, contributing to improved healthcare AI solutions.
 
 ---
 
@@ -308,6 +331,7 @@ I'm passionate about building AI and machine learning solutions that solve real-
 current_goals = {
     "🎓": "Completing Masters in CS at Cal State Fullerton",
     "🚀": "Building scalable MLOps solutions for production AI",
+    "🤖": "Exploring cutting-edge generative AI and multimodal systems",
     "📚": "Mentoring peers and leading AI workshops",
     "🌟": "Contributing to open-source AI/ML projects"
 }
